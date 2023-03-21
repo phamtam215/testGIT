@@ -8,7 +8,7 @@ You can check the current configuration with the commands:
 - git config user.name
 - git config user.email
   The configuration commands will be:
-- git config --global user.name “user”
+- git config --global user.name “user” => user will display on github as distributor (updated 1 minute ago by "username")
 - git config --global user.email “email”
 
 # REMOTE
